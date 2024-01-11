@@ -2,7 +2,7 @@
 
 
 # Overview
-This project is built in Python, following OOP and using the Turtle module. The goal of this game is to help a turtle to cross the street.
+This project is built in Python, following OOP and using the `turtle` module. The goal of this game is to help a turtle to cross the street.
 
 # Instructions
 Utilize the "arrow up" key to guide the turtle from the lower to the upper side of the street, avoiding collisions with cars. Exercise caution, as the speed of the cars escalates with each level.
@@ -19,7 +19,7 @@ Utilize the "arrow up" key to guide the turtle from the lower to the upper side 
 # Dependencies:
 
 1. Python v3.x is required.
-2. turtle module is also required.
+2. `turtle` module is also required.
 
 # Contact
 Maisi Lin - [Linkedin](https://www.linkedin.com/in/maisi-lin-b66503228/)
