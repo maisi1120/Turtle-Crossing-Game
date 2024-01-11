@@ -13,7 +13,8 @@ Utilize the "arrow up" key to guide the turtle from the lower to the upper side 
 
 
 # Usage example
-![Screen Recording 2024-01-10 at 4 56 44 PM](https://github.com/maisi1120/photo/assets/156170308/750ba127-8f2d-44fb-9011-1e274132c202)
+![t](https://github.com/maisi1120/photo/assets/156170308/dd0f896f-caf3-45ac-9e85-7f665faf4c50)
+
 
 
 # Dependencies:
